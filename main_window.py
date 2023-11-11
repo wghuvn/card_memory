@@ -15,10 +15,10 @@ lb_rest = QLabel('хвилини')
 
 lb_question=QLabel(' п')
 
-q_rb1 = QRadioButton('sddd')
-q_rb2= QRadioButton('sddd')
-q_rb3 = QRadioButton('sddd')
-q_rb4 = QRadioButton('sddd')
+q_rb1 = QRadioButton('')
+q_rb2 = QRadioButton('')
+q_rb3 = QRadioButton('')
+q_rb4 = QRadioButton('')
 
 qb_group = QButtonGroup()
 qb_group.addButton(q_rb1)
